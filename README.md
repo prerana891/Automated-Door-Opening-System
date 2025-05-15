@@ -3,10 +3,7 @@
 The Smart Automatic Door System is an IoT-based project designed to automate door operations using an IR sensor, servo motor, and ESP8266 WiFi module. The system detects a person using an IR sensor and automatically opens the door. It also allows remote control via WiFi, making it suitable for smart homes, offices, hospitals, and public spaces.
 
 # Objectives:
-• Automatic door control using an IR sensor.
-• WiFi-based remote operation with ESP8266.
-• Hygienic, touchless access for public safety.
-• Cost-effective and energy-efficient solution.
+The objective is to provide easy, contactless, and secure door access while improving accessibility, cost effective and energy efficiency.
 
 # Applications:
 • Smart homes & offices
